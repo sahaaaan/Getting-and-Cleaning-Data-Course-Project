@@ -1,7 +1,7 @@
-#"Getting and Cleaning Data" Course Project
+# "Getting and Cleaning Data" Course Project
 ---
 
-##DATA USED
+## DATA USED
 
 The project is to demonstrate your ability to collect, work with, and clean a data set from [UCI HAR dataset] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
@@ -16,7 +16,7 @@ The following files are used:
 - *test/y_test.txt*: Test labels.
 
 ---
-##THE SCRIPT
+## THE SCRIPT
 
 The following is a description of how the script works:
 
