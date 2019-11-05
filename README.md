@@ -3,7 +3,7 @@
 
 ## DATA USED
 
-The project is to demonstrate your ability to collect, work with, and clean a data set from [UCI HAR dataset] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The project is to demonstrate your ability to collect, work with, and clean a data set from [UCI HAR dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 The following files are used:
 
